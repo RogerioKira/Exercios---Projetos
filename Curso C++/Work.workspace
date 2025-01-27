@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="teste/teste.cbp" />
+		<Project filename="IDL/IDL.cbp" />
+		<Project filename="comp/comp.cbp" />
+		<Project filename="Iterador/Iterador.cbp" />
+		<Project filename="Iterador 2/Iterador 2.cbp" />
+		<Project filename="OperadordeAtribuicao/OperadordeAtribuicao.cbp" />
+		<Project filename="depuracao/depuracao.cbp" />
+		<Project filename="DOwhile/DOwhile.cbp" />
+		<Project filename="Calculadora2/Calculadora2.cbp" />
+		<Project filename="switch/switch.cbp" />
+		<Project filename="Inc e Dec/Inc e Dec.cbp" />
+		<Project filename="for/for.cbp" />
+		<Project filename="tabuada/tabuada.cbp" />
+		<Project filename="precedencia e operadores/precedencia e operadores.cbp" />
+		<Project filename="break e continue/break e continue.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

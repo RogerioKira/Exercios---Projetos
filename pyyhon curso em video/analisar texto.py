@@ -1,0 +1,7 @@
+n= str(input('nome completo')).strip()
+print('analisando')
+print('maiusculo {}' .format(n.upper()))
+print('minuscula {}' .format(n.lower()))
+print('tem {} letras' .format(len(n) - n.count(' ')))
+s = n.split()
+print('primeiro nome  {} tem {} letras' .format(s[0], len(s[0])))
